@@ -5,4 +5,3 @@ cvx_test.m and psotsp.m are the two main functions, which can provide the simula
 
 You can also adjust the parameters in the code to obtain the minimum UAV energy consumption and the minimum number of UAVs in multi-UAV GN-accessing tasks for any scenario.
 
-If our paper is accepted, we will open source all the code.
